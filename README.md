@@ -26,3 +26,12 @@ You'll need to train the image classifier before getting started.
 4. `python -m sigmar.vision.training train`
 
 [Opus Magnum]: http://www.zachtronics.com/opus-magnum/
+
+## Thanks
+
+The image classification code is heavily based on [this blog post by Vikas
+Gupta][1] and code from [this Gist by Stephen Meschke][2]. A million thanks to
+them for making it all click for me finally.
+
+[1]: http://www.learnopencv.com/image-classification-using-feedforward-neural-network-in-keras/
+[2]: https://gist.github.com/smeschke/e486ce21a7d88c8d3672e5d81926328f
