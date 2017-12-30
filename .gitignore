@@ -1,0 +1,5 @@
+sigmar.egg-info/
+training/
+results/
+elements.h5
+__pycache__/
