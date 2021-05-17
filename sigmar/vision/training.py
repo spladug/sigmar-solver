@@ -8,7 +8,7 @@ import errno
 import numpy
 import cv2
 
-from keras.utils import to_categorical
+from keras.utils.np_utils import to_categorical
 from keras.models import Sequential
 from keras.layers import Dense
 
